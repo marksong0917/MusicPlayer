@@ -1,7 +1,0 @@
-## Interface: 11304
-## Title: HelloWorld
-## Notes: Shows a message of "Hello, world!" on screen. 
-## Author: Yunah
-## Version: 0.0.1 
-
-Helloworld.lua 
